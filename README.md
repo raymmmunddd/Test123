@@ -1,2 +1,24 @@
 "# Test123" 
 "# BeanTrack-Cafe-Supply-Manager-An-inventory-solution-crafted-for-cafes" 
+
+import the sql file to a db named pm
+
+open terminal
+
+cd Test123-main
+cd inventory
+npm install
+npm run dev
+
+open 2nd terminal
+
+cd Test123-main
+cd backend
+npm install
+npm run dev
+
+http://localhost:3000/
+
+manager account
+username: manager1
+password: admin123
