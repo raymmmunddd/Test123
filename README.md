@@ -4,6 +4,8 @@ INSTRUCTIONS
 
 import the sql file to a db named pm
 
+edit .env in backend folder depending on your database
+
 ----------------------------------------
 
 open terminal
